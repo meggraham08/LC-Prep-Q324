@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1603-running-sum-of-1d-array) |
@@ -36,10 +37,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
