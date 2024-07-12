@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
 ## Stack
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
@@ -53,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
