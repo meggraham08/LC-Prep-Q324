@@ -67,4 +67,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+## Enumeration
+|  |
+| ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
