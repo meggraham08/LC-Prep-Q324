@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/meggraham08/LC-Prep-Q324/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
