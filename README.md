@@ -82,4 +82,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+## Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
