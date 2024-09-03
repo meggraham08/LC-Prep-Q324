@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
+| [1283-reformat-date](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1283-reformat-date) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
