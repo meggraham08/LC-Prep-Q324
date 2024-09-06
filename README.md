@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1603-running-sum-of-1d-array) |
@@ -89,13 +90,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
