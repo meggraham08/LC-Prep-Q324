@@ -91,11 +91,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -105,8 +107,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
