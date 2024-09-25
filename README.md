@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0917-boats-to-save-people) |
 ## Binary Search Tree
 |  |
