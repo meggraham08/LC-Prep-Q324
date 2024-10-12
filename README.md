@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
