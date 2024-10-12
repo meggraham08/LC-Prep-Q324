@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
 | [0917-boats-to-save-people](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1603-running-sum-of-1d-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/meggraham08/LC-Prep-Q324/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
