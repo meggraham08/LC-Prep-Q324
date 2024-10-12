@@ -13,3 +13,5 @@ class Solution:
             if startTime[i] <= queryTime <= endTime[i]:
                 count += 1
         return count
+        # Time Complexity is O(N). N being len of list
+        # Space Complexity is just O(1) beacuse no extra data structures
