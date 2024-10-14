@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0653-two-sum-iv-input-is-a-bst) |
