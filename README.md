@@ -70,11 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1283-reformat-date](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1283-reformat-date) |
+| [2128-reverse-prefix-of-word](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2128-reverse-prefix-of-word) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/meggraham08/LC-Prep-Q324/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
