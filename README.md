@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -205,4 +206,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
