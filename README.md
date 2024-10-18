@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1283-reformat-date](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1283-reformat-date) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
