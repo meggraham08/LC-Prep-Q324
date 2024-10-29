@@ -5,6 +5,7 @@ class Solution:
         operation = '+'  # Initialize the operation to '+'
         
         for i, char in enumerate(s):
+            print(current_num)
             # Build the current number if it's a digit
             if char.isdigit():
                 current_num = current_num * 10 + int(char)
