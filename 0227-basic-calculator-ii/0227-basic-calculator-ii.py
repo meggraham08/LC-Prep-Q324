@@ -1,43 +1,31 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        i = 0
-        curr = 0
-        prev = 0
-        res = 0
-        cur_operation = '+'
+        stack = []
+        current_num = 0
+        operation = '+'  # Initialize the operation to '+'
         
-        while i < len(s):
-            cur_char = s[i]
+        for i, char in enumerate(s):
+            # Build the current number if it's a digit
+            if char.isdigit():
+                current_num = current_num * 10 + int(char)
             
-            # If the character is a digit, construct the full number
-            if cur_char.isdigit():
-                curr = 0  # Reset curr for the new number
-                while i < len(s) and s[i].isdigit():
-                    curr = curr * 10 + int(s[i])
-                    i += 1
-                i -= 1  # Adjust index since outer loop will increment it
+            # If char is an operator or it's the end of the string
+            if char in "+-*/" or i == len(s) - 1:
+                if operation == '+':
+                    stack.append(current_num)
+                elif operation == '-':
+                    stack.append(-current_num)
+                elif operation == '*':
+                    stack.append(stack.pop() * current_num)
+                elif operation == '/':
+                    # Integer division, handling towards zero
+                    top = stack.pop()
+                    stack.append(int(top / current_num))
                 
-                # Perform the previous operation
-                if cur_operation == '+':
-                    res += curr
-                    prev = curr
-                elif cur_operation == '-':
-                    res -= curr
-                    prev = -curr
-                elif cur_operation == '*':
-                    res -= prev  # Remove last added number
-                    prev = prev * curr  # Update prev for multiplication
-                    res += prev  # Add the result of multiplication
-                elif cur_operation == '/':
-                    res -= prev  # Remove last added number
-                    prev = int(prev / curr)  # Update prev for division
-                    res += prev  # Add the result of division
-                
-                curr = 0  # Reset curr after processing the number
-            
-            elif cur_char != " ":
-                cur_operation = cur_char  # Update the operation for next number
-            
-            i += 1
+                # Reset current_num and update operation
+                current_num = 0
+                operation = char
         
-        return res
+        # Sum up all values in the stack for the result
+        return sum(stack)
+
