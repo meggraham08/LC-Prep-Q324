@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0345-reverse-vowels-of-a-string) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Enumeration
