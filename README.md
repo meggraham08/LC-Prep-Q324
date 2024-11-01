@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 ## Design
@@ -257,4 +258,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
