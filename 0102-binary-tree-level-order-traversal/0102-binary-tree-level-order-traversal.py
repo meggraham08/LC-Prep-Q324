@@ -7,20 +7,15 @@
 from collections import deque
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        # we know its bfs
-        if root is None:
-            return []
-
-        queue = deque([ (root, 0) ])
         levels = []
-        while queue:
-            curr, level = queue.popleft()
-            if len(levels) == level:
-                levels.append([curr.val])
-            else:
-                levels[level].append(curr.val)
-            if curr.left is not None:
-                queue.append((curr.left, level + 1))
-            if curr.right is not None:
-                queue.append((curr.right, level + 1))
+        self.fill_levels(root, levels, 0)
         return levels
+    def fill_levels(self,root, levels, height):
+        if root is None:
+            return None
+        if len(levels) == height:
+            levels.append([root.val])
+        else:
+            levels[height].append(root.val)
+        self.fill_levels(root.left, levels, height + 1)
+        self.fill_levels(root.right, levels, height + 1)
