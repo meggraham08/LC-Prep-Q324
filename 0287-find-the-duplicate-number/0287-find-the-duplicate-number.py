@@ -10,6 +10,7 @@ class Solution:
             print("fast AGAIN", nums[nums[fast]])
             if slow == fast:
                 break
+                
 
         slow = nums[0]
         while slow != fast:
