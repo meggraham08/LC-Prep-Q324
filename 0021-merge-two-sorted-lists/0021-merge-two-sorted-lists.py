@@ -25,4 +25,3 @@ class Solution:
             tail.next = curr_2
         # returning where to start, that is why we need to set tail = dummy for line 10
         return dummy.next
-        
