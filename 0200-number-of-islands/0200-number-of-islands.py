@@ -7,17 +7,15 @@ class Solution:
                 if self.dfs(grid, r, c, visited) == True:
                     count += 1
         return count
-
     def dfs(self, grid, r, c, visited):
         row_inbounds = 0 <= r < len(grid)
         col_inbounds = 0 <= c < len(grid[0])
-
-        if not row_inbounds or not col_inbounds or grid[r][c] == '0' or (r,c) in visited:
+        pos = (r, c)
+        if not row_inbounds or not col_inbounds or grid[r][c] == '0' or pos in visited:
             return False
-        visited.add((r,c))
-        
+        visited.add(pos)
         self.dfs(grid, r + 1, c, visited)
         self.dfs(grid, r - 1, c, visited)
-        self.dfs(grid, r , c - 1, visited)
         self.dfs(grid, r, c + 1, visited)
+        self.dfs(grid, r, c - 1, visited)
         return True
