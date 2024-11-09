@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 ## Design
@@ -264,15 +265,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0023-merge-k-sorted-lists) |
 | [0253-meeting-rooms-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0253-meeting-rooms-ii) |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
