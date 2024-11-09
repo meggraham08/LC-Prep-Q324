@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0279-perfect-squares) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Enumeration
 |  |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0279-perfect-squares) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
