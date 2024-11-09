@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0018-4sum) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0005-longest-palindromic-substring) |
 | [0279-perfect-squares](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 ## Linked List
