@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 | [1099-path-with-maximum-minimum-value](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1099-path-with-maximum-minimum-value) |
@@ -310,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0273-integer-to-english-words) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
