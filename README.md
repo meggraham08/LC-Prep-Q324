@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0253-meeting-rooms-ii) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0647-palindromic-substrings) |
@@ -333,5 +337,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0211-design-add-and-search-words-data-structure) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
