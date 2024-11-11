@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
 | [0917-boats-to-save-people](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0270-closest-binary-search-tree-value](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0270-closest-binary-search-tree-value) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1634-clone-n-ary-tree) |
 ## Breadth-First Search
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0279-perfect-squares) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1005-univalued-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1634-clone-n-ary-tree) |
 ## Binary Tree
@@ -206,10 +209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
