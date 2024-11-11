@@ -7,12 +7,8 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         def fill_levels(root, levels, height):
-        # mutatue levels list
             if root is None:
                 return
-                # if len of levels ( 0 == 0)
-            # we add a new array with the value
-            # otherwise we add the node to the value with the height its supposed to be
             if len(levels) == height:
                 levels.append([root.val])
             else:
