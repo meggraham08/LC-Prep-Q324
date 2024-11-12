@@ -1,28 +1,34 @@
+from typing import List
+
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        rows, cols = len(board), len(board[0])
-        def dfs(i, j, k):
-            if k == len(word):
+        m, n = len(board), len(board[0])
+        
+        def dfs(r, c, index):
+            # Check if we've matched all characters in the word
+            if index == len(word):
                 return True
-            
-            if (i < 0 or i >= rows or 
-                j < 0 or j >= cols or 
-                board[i][j] != word[k]):
+            # Check out of bounds, mismatch, or already visited cell
+            if r < 0 or c < 0 or r >= m or c >= n or board[r][c] != word[index]:
                 return False
             
-            temp = board[i][j]
-            board[i][j] = '#'  # mark as visited
+            # Mark the cell as visited by temporarily changing its value
+            temp, board[r][c] = board[r][c], '#'
             
-            result = (dfs(i+1, j, k+1) or 
-                      dfs(i-1, j, k+1) or 
-                      dfs(i, j+1, k+1) or 
-                      dfs(i, j-1, k+1))            
-            board[i][j] = temp  # backtrack
-            return result
+            # Explore neighbors in the four cardinal directions
+            found = (dfs(r + 1, c, index + 1) or
+                     dfs(r - 1, c, index + 1) or
+                     dfs(r, c + 1, index + 1) or
+                     dfs(r, c - 1, index + 1))
+            
+            # Unmark the cell (backtrack) by restoring its original value
+            board[r][c] = temp
+            return found
+
+        # Start DFS from each cell on the board
+        for r in range(m):
+            for c in range(n):
+                if board[r][c] == word[0] and dfs(r, c, 0):
+                    return True
         
-        for i in range(rows):
-            for j in range(cols):
-                if board[i][j] == word[0]:
-                    if dfs(i, j, 0):
-                        return True
         return False
