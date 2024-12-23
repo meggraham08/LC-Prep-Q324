@@ -6,5 +6,4 @@ class Solution:
             if complement in my_map:
                 return [index, my_map[complement]]
             my_map[num] = index
-        return 
 
