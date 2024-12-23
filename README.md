@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0273-integer-to-english-words](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0344-reverse-string) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
