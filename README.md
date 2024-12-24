@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0133-clone-graph) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
 ## Counting
