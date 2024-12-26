@@ -8,5 +8,7 @@ class Solution:
                 start = seen[s[i]] + 1
             seen[s[i]] = i
             curr_len = i - start + 1
+            # print(s[i],seen, curr_len)
+
             max_len = max(max_len, curr_len)
         return max_len
