@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
+| [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1009-pancake-sorting) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 | [1634-clone-n-ary-tree](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1634-clone-n-ary-tree) |
 ## Bit Manipulation
 |  |
@@ -296,11 +298,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -362,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
