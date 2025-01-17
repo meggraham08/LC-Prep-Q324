@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
