@@ -3,13 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count = [0] * 3
-        for num in nums:
-            count[num] += 1
-        
-        index = 0
-        for i in range(3):
-            while count[i]:
-                count[i] -= 1
-                nums[index] = i
-                index += 1
+        left, curr = 0, 0
+        right = len(nums) - 1
+
+        while curr <= right:
+            if nums[curr] == 0:
+                nums[left], nums[curr] = nums[curr], nums[left]
+                left += 1
+                curr += 1
+            elif nums[curr] == 2:
+                nums[curr], nums[right] = nums[right], nums[curr]
+                right -= 1
+            else:
+                curr += 1
