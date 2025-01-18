@@ -4,8 +4,6 @@ class Solution:
         count = {}
         for num in nums:
             count[num] = count.get(num, 0) + 1
-        print(count)
-        for key, value in count.items():
-            if value > majEle:
+        for key, val in count.items():
+            if val > majEle:
                 return key
-        
