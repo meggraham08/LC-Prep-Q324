@@ -7,3 +7,4 @@ class Solution:
                     return res
             res += s[i]
         return res
+        
