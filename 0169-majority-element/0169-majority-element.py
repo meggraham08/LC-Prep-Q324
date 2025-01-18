@@ -5,7 +5,7 @@ class Solution:
         for num in nums:
             count[num] = count.get(num, 0) + 1
         print(count)
-        for key, val in count.items():
-            if val > majEle:
+        for key, value in count.items():
+            if value > majEle:
                 return key
         
