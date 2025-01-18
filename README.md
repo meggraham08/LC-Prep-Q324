@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0270-closest-binary-search-tree-value](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 | [0713-subarray-product-less-than-k](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0713-subarray-product-less-than-k) |
 | [1099-path-with-maximum-minimum-value](https://github.com/meggraham08/LC-Prep-Q324/tree/master/1099-path-with-maximum-minimum-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meggraham08/LC-Prep-Q324/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 | [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -378,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0817-design-hashmap) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
