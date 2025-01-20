@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0266-palindrome-permutation](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0359-logger-rate-limiter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0424-longest-repeating-character-replacement) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0359-logger-rate-limiter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 | [0816-design-hashset](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0817-design-hashmap) |
@@ -385,5 +387,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/meggraham08/LC-Prep-Q324/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
