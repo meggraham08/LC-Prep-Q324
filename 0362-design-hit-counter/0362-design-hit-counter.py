@@ -1,29 +1,24 @@
-from collections import deque
-from threading import Lock
+import threading
 class HitCounter:
+
     def __init__(self):
-        self.hits = deque()  # Store (timestamp, count) pairs
-        self.lock = Lock()   # For thread safety
-        
-        
+        self.hits = []
+        self.lock = threading.Lock()
 
     def hit(self, timestamp: int) -> None:
-        with self.lock:
-            self.hits.append(timestamp)
-            # Remove hits older than 5 minutes (300 seconds)
-            while self.hits and self.hits[0] <= timestamp - 300:
-                self.hits.popleft()
+        self.hits.append(timestamp)
 
     def getHits(self, timestamp: int) -> int:
         with self.lock:
-            # Remove expired hits
-            while self.hits and self.hits[0] <= timestamp - 300:
-                self.hits.popleft()
-            return len(self.hits)
-
-        
-
-
+            left, right = 0, len(self.hits) - 1
+            while left <= right:
+                mid = (left + right) // 2
+                if self.hits[mid] == timestamp:
+                    return mid
+                elif self.hits[mid] < timestamp:
+                    left = mid + 1
+                else:
+                    right = mid - 1
 # Your HitCounter object will be instantiated and called as such:
 # obj = HitCounter()
 # obj.hit(timestamp)
